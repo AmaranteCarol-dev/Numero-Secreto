@@ -1,0 +1,4 @@
+# Força o GitHub a reconhecer corretamente as linguagens usadas
+*.html linguist-language=HTML
+*.js linguist-language=JavaScript
+*.css linguist-language=CSS
